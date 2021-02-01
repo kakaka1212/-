@@ -23,15 +23,15 @@ RASPBERRY Pi 3 をりようした温湿度計を作ってみました！
  
 # 必要な機器
  
-*RASPBERRY Pi 3
+* RASPBERRY Pi 3
 * DHT11
 
  
 # 作成者情報
 
 * 作成者
-   畑　宏征
+畑　宏征
 * 所属
-   HAL東京　高度情報学科　3年
+HAL東京　高度情報学科　3年
 * E-mail
-   hatakousei1234@gmail.com
+hatakousei1234@gmail.com

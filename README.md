@@ -7,8 +7,13 @@ RASPBERRY Pi 3 をりようした温湿度計を作ってみました！
 # デモ画面
  
 * 日時、温度、湿度取得
+
+![図1](https://user-images.githubusercontent.com/75466906/106517817-571dea00-651c-11eb-91f8-5eaa220837dd.png)
 * グラフ表示
+
+![graph](https://user-images.githubusercontent.com/75466906/106517850-62711580-651c-11eb-9390-9aebe79b4d9b.png)
 * 基盤
+![image (2)](https://user-images.githubusercontent.com/75466906/106517944-846a9800-651c-11eb-89e2-2bb75b6db7d7.jpg)
  
 # 特長、使用技術
 
